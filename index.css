@@ -1,0 +1,27 @@
+.title {
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+.paragraphs {
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+.input {
+    font-size:  20px;
+}
+
+.background {
+    background: linear-gradient(lightblue, rgb(187, 185, 185), rgb(206, 204, 204));
+}
+
+.toc {
+    text-align: center;
+}
+
+.anchor {
+    font-size: 20px;
+    margin-right: 2%;
+}
