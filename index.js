@@ -1,7 +1,6 @@
 const inquirer = require("inquirer")
 const fs = require('fs');
-//const { title } = require("process");
-// const { default: Choices } = require("inquirer/lib/objects/choices");
+
 
 const generateHTML = ({title, description, instructions, usageInfo, contribute, testing, license, licenseExplanation, username, email}) => 
 
