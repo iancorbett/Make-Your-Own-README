@@ -24,7 +24,7 @@ In order to test this application, download node.js if you have not already. Use
 
 Sources: Throughout making this project, I did not receive help from any tutors, or professors during office hours. However, I did borrow some starter code for generating the new html page. This code can be found on the index.js file. The nav element was all original code, as well as the prompts. There is little code other than the boilerplate code, that was directly copied, but I used the mini project of our module 9 as inspiration for the format. For example, the writeFile function does contain the same error check that we used in the project. Additionally, the format for the prompts is the same as some examples from class, although the questions are different. Additionally, bootstrap is used to format and indent the paragraphs. 
 
-Here is a link to a video where I am explaining how the project works: https://app.screencastify.com/v2/manage/videos/ThN0IgUjfEbKX5yLuANh
+Here is a link to a video where I am explaining how the project works: [](https://www.youtube.com/watch?v=WHqIJf84-6w)
 
 License:
 
